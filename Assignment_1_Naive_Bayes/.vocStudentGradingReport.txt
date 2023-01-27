@@ -1,0 +1,10 @@
+
+[Executed at: Wed Feb 16 13:46:44 PST 2022]
+
+Results:
+Score:
+10
+ Your Mean F1:
+0.9156
+
+writing to file: nbmodel.txt

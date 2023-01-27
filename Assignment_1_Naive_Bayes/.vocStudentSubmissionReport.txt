@@ -1,0 +1,11 @@
+
+[Executed at: Thu Jan 27 19:51:34 PST 2022]
+
+Results:
+truthful  0.85 0.77 0.81 
+deceptive 0.79 0.87 0.83 
+positive  0.91 0.96 0.93 
+negative  0.95 0.90 0.93 
+Mean F1: 0.8732
+
+writing to file: nbmodel.txt
